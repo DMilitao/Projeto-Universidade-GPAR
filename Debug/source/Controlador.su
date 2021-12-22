@@ -1,0 +1,15 @@
+C:\Users\User\Documents\MCUXpressoIDE_11.4.0_6237\workspace\MainCode2\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\Users\User\Documents\MCUXpressoIDE_11.4.0_6237\workspace\MainCode2\drivers/fsl_clock.h:614:20:CLOCK_SetTpmClock	16	static
+C:\Users\User\Documents\MCUXpressoIDE_11.4.0_6237\workspace\MainCode2\drivers/fsl_common.h:212:20:EnableIRQ	16	static
+C:\Users\User\Documents\MCUXpressoIDE_11.4.0_6237\workspace\MainCode2\drivers/fsl_adc16.h:382:20:ADC16_EnableHardwareTrigger	16	static
+C:\Users\User\Documents\MCUXpressoIDE_11.4.0_6237\workspace\MainCode2\drivers/fsl_adc16.h:500:24:ADC16_GetChannelConversionValue	16	static
+C:\Users\User\Documents\MCUXpressoIDE_11.4.0_6237\workspace\MainCode2\drivers/fsl_tpm.h:518:20:TPM_ClearStatusFlags	16	static
+C:\Users\User\Documents\MCUXpressoIDE_11.4.0_6237\workspace\MainCode2\drivers/fsl_tpm.h:545:20:TPM_SetTimerPeriod	16	static
+C:\Users\User\Documents\MCUXpressoIDE_11.4.0_6237\workspace\MainCode2\drivers/fsl_tpm.h:579:20:TPM_StartTimer	24	static
+../source/Controlador.c:83:6:InicializaTimer	40	static
+../source/Controlador.c:92:6:InicializaADC	8	static
+../source/Controlador.c:108:5:LerADC	8	static
+../source/Controlador.c:119:6:InicializaPWM	32	static
+../source/Controlador.c:130:6:AtualizaPWM	16	static
+../source/Controlador.c:145:5:main	8	static
+../source/Controlador.c:191:6:TPM2_IRQHandler	8	static
